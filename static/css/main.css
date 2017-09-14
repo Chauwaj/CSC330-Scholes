@@ -58,7 +58,7 @@ a {
 }
 
 .btn-primary {
-  background: #4285f4;
+  background: black;
   border: 1px solid #1266f1;
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
@@ -72,9 +72,9 @@ a {
 }
 
 .btn-secondary {
-  background: #ffffff;
+  background: rgba(210, 164, 29, 0.9);
   border: 1px solid #e6e6e6;
-  color: #3372df;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   font-weight: 600;
@@ -92,11 +92,12 @@ a {
  */
 
 header {
-  background-color: #fff;
+  background-color: black;
   padding: 25px 0;
 }
 
 .title {
+  color : white;
   float: left;
   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size: 17px;
