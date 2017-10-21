@@ -5,11 +5,14 @@
 html, body, h1 {
   margin: 0;
   padding: 0;
+  
 }
 
 body {
   background-color: #f4f4f4;
   font-family: 'Open Sans', sans-serif;
+  background-image: url(../img/img.jpg);
+  background-size: cover;
 }
 
 h2 {
@@ -25,8 +28,10 @@ a {
 }
 
 .container {
+  padding-top:0px;
   width: 1000px;
   margin: 0 auto;
+  /* float: left; */
 }
 
 .pull-left {
@@ -43,8 +48,12 @@ a {
 
 .section-content {
   color: #3a3a3a;
-  float: left;
-  width: 340px;
+  padding-top:0px;
+  /* float: left; */
+  width: 320px;
+  position: relative;
+  left: 800px;
+
 }
 
 .section-device {
@@ -69,6 +78,7 @@ a {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+
 }
 
 .btn-secondary {
@@ -83,6 +93,7 @@ a {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+  float: right;
 }
 
 
@@ -99,6 +110,7 @@ header {
 .title {
   color : white;
   float: left;
+  margin: 0px -120px;
   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size: 17px;
   letter-spacing: 2.5px;
@@ -138,7 +150,8 @@ header {
 
 .hero-section .section-content {
   position: relative;
-  top: 100px;
+  padding-top:0px;
+  top: 0px;
 }
 
 .hero-section .section-content h2 {

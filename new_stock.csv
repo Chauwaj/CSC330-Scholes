@@ -1,0 +1,103 @@
+stocksymbol,pe,changepct,lastprice,shortratio,time,nameofcompany,headquarters,numberofstocks,totalpricestocks
+AAPL,18.22,+0.37%,160.47,1.9,4:00pm,Apple Inc.,"Cupertino, CA",50000,8023500.0
+GOOGL,36.64,+0.16%,1011.0,1.45,4:00pm,Alphabet Inc.,"Mountain View, CA",23000,23253000.0
+AMZN,256.65,+0.28%,1009.13,1.21,4:00pm,"Amazon.com, Inc.","Seattle, WA",28000,28255640.0
+FB,39.42,+0.91%,176.11,0.97,4:00pm,"Facebook, Inc. ","Menlo Park, CA",34200,6022962.0
+SSNLF,11.7,+0.00%,2150.0,0.0,3:34pm,Samsung Electronics Co Ltd.,"Seoul, South Korea",90000,193500000.0
+MSFT,28.63,-0.08%,77.59,1.95,4:00pm,Microsoft Corporation,"Redmond, WA",44332,3439719.88
+SNE,38.77,-0.27%,36.95,2.08,4:02pm,Sony Corporation,"Minato, Tokyo, Japan",4099,151458.05
+IBM,12.16,-0.20%,146.54,5.26,4:00pm,IBM,"Armonk, North Castle, NY",3806,557731.24
+NTDOY,,-2.01%,48.68,0.0,3:58pm,"Nintendo Co., Ltd.","Kyoto, Kyoto Prefecture, Japan",845,41134.6
+ORCL,21.4,+0.68%,49.19,1.84,4:00pm,Oracle Corporation,"Redwood City, CA",6623,325785.37
+VMW,41.61,+0.39%,115.6,17.5,4:02pm,"VMware, Inc.","Palo Alto, CA",9322,1077623.2
+INTC,15.19,+0.08%,39.79,4.17,4:00pm,Intel Corporation,"Santa Clara, CA",1684,67006.36
+HPQ,15.66,-1.10%,21.55,2.44,4:03pm,HP Inc.,"Palo Alto, CA",8662,186666.1
+DVMT,,-0.14%,80.99,2.02,4:01pm,Dell Technologies Inc.,"Round Rock, TX",168,13606.32
+CSCO,17.68,+0.18%,33.6,2.31,4:00pm,"Cisco Systems, Inc.","San Jose, CA",4677,157147.2
+ADBE,47.27,-0.05%,150.38,2.72,4:00pm,Adobe Systems Incorporated,"San Jose, CA",6801,1022734.38
+SAP,32.28,-0.45%,111.34,6.51,4:02pm,SAP SE ,"Walldorf, Germany",3856,429327.04
+LNVGY,22.12,-0.43%,11.5,0.0,3:59pm,Lenovo Group Limited ,"Morrisville, NC",27665,318147.5
+RHT,72.48,+0.19%,121.12,0.0,4:04pm,Red Hat Inc.,"Raleigh, NC",1480,179257.6
+SYMC,,-0.16%,32.01,3.2,4:00pm,Symantec Corporation,"Mountain View, CA",41491,1328126.91
+TWTR,,-0.27%,18.28,3.63,4:00pm,Twitter Inc.,"San Francisco, CA",2690,49173.2
+ATNY,,+0.00%,2.0,0.0,4:00pm,API TECHNOLOGIES CORP,"Marlborough, MA",39588,79176.0
+ACTS,,-100.00%,2.14,,,"Actions Semiconductor Co., Ltd.","Zhuhai, China",15270,32677.8
+ATVI,41.63,+0.29%,61.66,1.58,4:00pm,"Activision Blizzard, Inc.","Santa Monica, CA",7813,481749.58
+IOTS,,-3.75%,7.7,7.04,4:00pm,Adesto Technologies Corporation,"Santa Clara, CA",38341,295225.7
+ADRO,,+1.58%,9.65,17.19,4:00pm,Aduro BioTech Inc.,"Berkeley, CA",20062,193598.3
+AMD,,-0.70%,14.16,1.81,4:00pm,"Advanced Micro Devices, Inc.","Sunnyvale, CA",29194,413387.04
+ADVS,,+0.00%,,0.0,3:59pm,"Advent Software, Inc.","San Francisco, CA",2514,
+ZBRA,,+0.65%,110.88,3.04,4:00pm,Zebra Technologies Corp.,"Lincolnshire, IL",3096,343284.48
+XPLR,,+1.22%,3.33,3.23,4:00pm,Xplore Technologies Corp.,"Austin, TX",7154,23822.82
+XBIT,,-0.90%,4.41,35.18,4:00pm,XBiotech Inc.,"Austin, TX",11986,52858.26
+WIX,,+0.65%,69.35,0.92,4:00pm,Wix.Com Ltd.,"Tel Aviv, Israel",29884,2072455.4
+WBMD,34.04,+0.02%,66.48,2.59,4:00pm,WebMD Health Corp.,"New York City, NY",9592,637676.16
+VNOM,25.33,-0.83%,19.15,0.5,4:00pm,Viper Energy Partners LP,"Midland, TX",39386,754241.9
+VIA,9.34,+0.59%,33.95,12.06,3:59pm,"Viacom, Inc. ","New York City, NY",2175,73841.25
+VECO,,+1.16%,21.75,9.99,4:00pm,Veeco Instruments Inc.,"Plainview, Town of Oyster Bay, NY",6419,139613.25
+UPLD,,-0.65%,21.33,1.05,4:00pm,Upland Software Inc.,"Austin, TX",8259,176164.47
+UBNT,19.26,+0.71%,59.51,29.06,4:00pm,Ubiquiti Networks Inc.,"New York City, NY",4569,271901.19
+UFPT,24.19,-1.16%,29.75,1.63,4:00pm,"UFP Technologies, Inc.","Georgetown, MA",6697,199235.75
+TYME,,-0.48%,4.17,0.0,3:59pm,Tyme Technologies Inc.,"New York City, NY",38342,159886.14
+TRIV,,+0.00%,5.87,0.0,5:00pm,TriVascular Technologies Inc.,"Santa Rosa, CA",2919,17134.53
+TRIP,61.06,+1.61%,40.36,8.49,4:00pm,Tripadvisor Inc.,"Needham, MA",4102,165556.72
+TGA,,-1.25%,1.58,2.72,4:00pm,TransGlobe Energy Corporation,"Calgary, Canada",23617,37314.86
+TSI,,-1.22%,5.69,0.0,4:02pm,"TCW Strategic Income Fund, Inc. ","Los Angeles, CA",17185,97782.65
+TESS,55.83,-0.74%,13.4,0.94,4:00pm,"TESSCO Technologies, Inc.","Hunt Valley, MD",2703,36220.2
+AIR,22.98,-0.39%,38.24,5.83,4:02pm,AAR Corp.,"Wood Dale, IL",2898,110819.52
+ATEN,,-0.39%,7.6,1.45,4:02pm,A10 Networks Inc.,"San Jose, CA",1496,11369.6
+AQN,61.51,+0.92%,11.01,7.4,3:59pm,Algonquin Power & Utilities Corp.,"Oakville, Canada",7741,85228.41
+DDD,,-0.17%,11.6,9.24,4:02pm,3D Systems Corporation,"Rock Hill, SC",3127,36273.2
+WUBA,362.11,+0.48%,68.8,7.4,4:02pm,58.com Inc.,"Chaoyang, China",21568,1483878.4
+ASX,13.98,-1.41%,6.29,2.99,4:02pm,ASX Ltd.,"Sydney, Australia",23943,150601.47
+A,47.23,-1.18%,66.12,1.72,4:01pm,Agilent Technologies Inc.,"Santa Clara, CA",368,24332.16
+AYX,,-0.56%,21.13,4.72,4:01pm,Alteryx Inc.,"Irvine, CA",3604,76152.52
+AMBR,,-2.01%,8.28,5.89,4:01pm,Amber Road Inc.,"East Rutherford, NJ ",2008,16626.24
+AEE,22.74,+0.51%,60.95,3.86,4:00pm,Ameren Corp.,"St. Louis, MO",8246,502593.7
+BHE,25.96,-0.56%,35.3,2.87,4:02pm,"Benchmark Electronics, Inc.","Angleton, TX",2894,102158.2
+BIO,432.69,-1.80%,218.94,4.52,4:02pm,"Bio-Rad Laboratories, Inc. ","Hercules, CA",3732,817084.08
+CPL,37.71,+0.23%,17.27,2.32,4:02pm,CPFL Energia S.A. ,"São Paulo, São Paulo, Brazil",1234,21311.18
+CTS,28.05,-0.78%,25.55,4.68,4:02pm,CTS Corporation,"Elkhart, IN",223,5697.65
+CMI,19.75,+0.34%,174.72,2.68,4:01pm,Cummins Inc.,"Columbus, IN",2131,372328.32
+DGI,1011.76,-100.00%,34.4,5.47,,DigitalGlobe Inc.,"Westminster, CO",31345,1078268.0
+DGI,1011.76,-100.00%,34.4,5.47,,DigitalGlobe Inc.,"Westminster, CO",78976,2716774.4
+DGI,1011.76,-100.00%,34.4,5.47,,DigitalGlobe Inc.,"Westminster, CO",31345,1078268.0
+DGI,1011.76,-100.00%,34.4,5.47,,DigitalGlobe Inc.,"Westminster, CO",78976,2716774.4
+D,22.85,-0.09%,78.96,10.05,4:00pm,Dominion Energy Inc.,"Richmond, VA",234,18476.64
+HEI,43.72,-0.57%,89.28,14.19,4:02pm,Heico Corp,"Hollywood, FL",32113,2867048.64
+ASUR,,+0.25%,12.08,7.48,4:00pm,Asure Software Inc,"Austin, TX",432,5218.56
+AVID,117.18,+0.22%,4.57,24.2,4:00pm,"Avid Technology, Inc.","Burlington, MA",4234,19349.38
+EPAY,,-0.24%,32.63,6.37,4:00pm,Bottomline Technologies,"Portsmouth, NH",6754,220383.02
+CBAK,,+0.00%,1.8,9.17,4:00pm,CBAK Energy Technology Inc.,"Shenzhen, China",23467,42240.6
+CPSH,,-1.327%,1.115,2.2,3:59pm,CPS Technologies Corporation,"Norton, MA",76543,85345.445
+CYAN,,+4.26%,4.9,1.69,3:25pm,CYANOTECH CORP,Hawaii,54332,266226.8
+DBVT,,+2.81%,49.35,3.18,4:00pm,DBV Technologies,France,67876,3349680.6
+DELT,,+1.65%,1.23,0.19,3:57pm,Delta Technology Holdings Ltd.,China,5433,6682.59
+EDGW,,-0.15%,6.52,1.18,3:59pm,Edgewater Technology Inc.,"Wakefield, MA",5678,37020.56
+XELA,,-4.36%,5.49,0.0,3:59pm,Exela Technologies Inc.,Missouri,5432,29821.68
+FALC,,+0.00%,0.26,1.72,3:59pm,"FalconStor Software, Inc.","Melville, NY",5422,1409.72
+SVVC,,+0.12%,8.04,0.0,3:57pm,Firsthand Technology Value Fund Inc.,"San Jose, CA",56788,456575.52
+FBIO,,+0.23%,4.43,20.13,4:00pm,Fortress Biotech,"New York, NY",9766,43263.38
+GEOS,,-0.86%,17.33,26.17,4:00pm,Geospace Technologies Corporation,"Houston, TX",6788,117636.04
+QQQC,,-0.85%,30.22,,4:00pm,Global X China Technology,"New York, NY",5468,165242.96
+GPRO,,+1.65%,9.23,15.12,4:00pm,GoPro Inc.,"San Mateo, California",907,8371.61
+MRVL,35.58,+0.49%,18.36,1.11,4:00pm,Marvell Technology Group Ltd.,"Hamilton, Bermuda",8765,160925.4
+MZOR,,+1.78%,54.98,6.05,4:00pm,Mazor Robotics Ltd,"Caesarea, Israel",7865,432417.7
+BKFS,75.93,-1.26%,43.05,16.53,4:02pm,Black Knight Financial Services Inc.,"Jacksonville, FL",654,28154.7
+BA,22.66,-0.44%,258.62,3.41,4:00pm,Boeing Co.,"Chicago, IL",5678,1468444.36
+CAJ,21.78,-0.25%,35.68,3.8,4:02pm,Canon Inc.,"Tokyo, Japan",4466,159346.88
+CRY,61.82,+0.49%,20.4,3.74,4:02pm,Cryolife Inc.,"Kennesaw, GA",4567,93166.8
+CUB,,-1.05%,51.9,16.61,4:02pm,Cubic Corporation,"San Diego, CA",4456,231266.4
+GME,5.92,+1.29%,19.66,15.29,4:02pm,GameStop Corporation,"Grapevine, TX",5678,111629.48
+GM,7.83,-1.62%,45.02,2.22,4:00pm,General Motors Company,"Detroit, MI",543,24445.86
+GNE,,+0.63%,6.39,9.65,4:02pm,Genie Energy Ltd,"Newark, NJ",667,4262.13
+ASR,231.85,+4.23%,187.57,1.35,4:02pm,Grupo Aeroportuario dl Srst SAB CV ,"Mexico City, Mexico",4432,831310.24
+MDT,26.25,+0.35%,78.0,1.86,4:00pm,Medtronic PLC,"Minneapolis, MN",7546,588588.0
+MTD,40.72,-0.71%,662.22,4.44,4:02pm,Mettler-Toledo International Inc.,"Columbus, OH",644,426469.68
+MIXT,25.37,+1.50%,10.15,1.78,4:02pm,MiX Telematics Ltd.,South Africa,667,6770.05
+MULE,,-0.98%,22.26,2.75,4:02pm,Mulesoft Inc,"San Francisco, CA",654,14558.04
+NC,7.02,-1.62%,36.4,6.5,4:02pm,"NACCO Industries, Inc.","Cleveland, OH",9766,355482.4
+NPTN,,+0.00%,4.75,13.35,4:02pm,NeoPhotonics Corporation,"San Jose, CA",865,4108.75
+NXPI,20.45,+0.18%,115.15,2.12,4:00pm,NXP Semiconductors NV,"Eindhoven, Netherlands",897,103289.55
+NSTG,,+3.08%,10.39,8.01,4:00pm,"NanoString Technologies, Inc. ","Seattle, WA",578,6005.42
+UEPS,7.06,+0.64%,9.39,1.07,4:00pm,Net 1 UEPS Technologies Inc.,"Johannesburg, South Africa",5567,52274.13
